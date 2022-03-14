@@ -1,0 +1,26 @@
+<annotation>
+	<folder>segunda_parte</folder>
+	<filename>eucaliptos_187.png</filename>
+	<path>C:\Users\jose-\Desktop\Apepu\divididos\segunda_parte\eucaliptos_187.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eucalipto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>182</ymin>
+			<xmax>359</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>
