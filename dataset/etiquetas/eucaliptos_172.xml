@@ -540,7 +540,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -552,7 +552,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -564,7 +564,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -576,7 +576,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -588,7 +588,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -600,7 +600,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -612,7 +612,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -624,7 +624,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -636,7 +636,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -648,7 +648,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -660,7 +660,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -672,7 +672,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -684,7 +684,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -696,7 +696,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -708,7 +708,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -720,7 +720,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -732,7 +732,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -744,7 +744,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -756,7 +756,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -768,7 +768,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -780,7 +780,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -792,7 +792,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -804,7 +804,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -816,7 +816,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -828,7 +828,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -840,7 +840,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -852,7 +852,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -864,7 +864,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -876,7 +876,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -888,7 +888,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -900,7 +900,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -912,7 +912,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>eucalitpo</name>
+		<name>eucalipto</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
